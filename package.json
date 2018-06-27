@@ -1,0 +1,27 @@
+{
+  "name": "uc-icon",
+  "version": "1.0.0",
+  "description": "SVG icon UI component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unchainedui/icon.git"
+  },
+  "keywords": [
+    "unchained",
+    "ui",
+    "browser",
+    "icon",
+    "svg",
+    "kiss"
+  ],
+  "author": "Alexey Novikov <v@2dubs.com> (http://2dubs.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/unchainedui/icon/issues"
+  },
+  "homepage": "https://github.com/unchainedui/icon#readme"
+}
